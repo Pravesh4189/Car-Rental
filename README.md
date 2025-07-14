@@ -1,2 +1,2 @@
 # Car-Rental
-car-rental-gamma-blond.vercel.app
+https://car-rental-gamma-blond.vercel.app/
